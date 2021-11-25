@@ -8,5 +8,4 @@ nota3 = float(input('Digite sua terceira nota: '))
 somaDasNotas = (nota1 + nota2 + nota3)/3
 #media = somaDasNotas / 3
 
-
 print("A media entre {}, {}, {}, foi de {}".format(nota1, nota2, nota3, somaDasNotas))
